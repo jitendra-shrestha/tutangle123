@@ -1,0 +1,116 @@
+.container{
+	width:1100px;
+	margin: 0 auto;
+	/*background-color: grey;*/
+}
+
+.header-wrapper{
+	width: 100%;
+	/* background-color: red; */
+}
+
+.logo-searchbar-wrapper{
+	width:800px;
+	/*background-color: blue;*/
+	float: left;
+	/*border: 1px dashed black;*/
+}
+
+.logo-wrapper{
+	width:300px;
+   /*background-color: peru;*/
+   float:left;
+   border: 1px dashed black;
+}
+
+.searchbar-wrapper{
+	width:500px;
+   /*background-color: orangered;*/
+   float:right;
+   border: 1px dashed black;
+}
+
+.username-wrapper{
+	width:300px;
+	/*background-color: hotpink;*/
+	float: right;
+	border: 1px dashed black;
+}
+
+
+
+.navbar-wrapper{
+	width: 100%;
+	/*background-color: green;*/
+}
+
+.left-navbar-wrapper{
+	width: 700px;
+  /* background-color: lightgreen;*/
+   float: left;
+   border: 1px dashed black;
+}
+
+.right-navbar-wrapper{
+	width: 400px;
+   /*background-color: brown;*/
+   float: right;
+   border: 1px dashed black;
+}
+
+
+.body-wrapper{
+	width:100%;
+	/*background-color: yellow;*/
+}
+
+.left-sidebar-wrapper{
+	width: 800px;
+	/* background-color: purple;*/
+	 float: left;
+	/* border: 1px dashed black;*/
+}
+
+.right-sidebar-wrapper{
+	width: 300px;
+ 	/*background-color: lime;*/
+ 	float: right;
+ 	border: 1px dashed black;
+}
+
+.left-child-sidebar-wrapper{
+	width: 200px;
+ 	/*background-color: aqua;*/
+ 	float:left;
+ 	border: 1px dashed black;
+}
+
+.right-child-sidebar-wrapper{
+	width: 600px;
+     /*background-color: magenta;*/
+     float: right;
+     border: 1px dashed black;
+}
+
+
+.footer-wrapper{
+	/*background-color: pink;*/
+}
+
+.left-footer-wrapper{
+	width:700px;
+     /*background-color: skyblue;*/
+     float: left;
+     border: 1px dashed black;
+}
+
+.right-footer-wrapper{
+	width: 400px;
+	/* background-color: maroon;*/  
+	 float: right;
+	 border: 1px dashed black;
+}
+
+div{
+	height: 150px;
+}
