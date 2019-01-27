@@ -1,4 +1,9 @@
 # tutangle
-html css js in kcc workshop
 
-https://tjiten123.github.io/tutangle/ click me
+layout with html css
+
+# Getting Started
+
+Tutangle <a href="https://tjiten123.github.io/tutangle/">preview</a> 
+
+
